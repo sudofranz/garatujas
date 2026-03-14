@@ -1,0 +1,13 @@
+body{
+    color: whitesmoke;
+    background-color: black;
+    h2 {
+        text-align: center;
+        color: #643652;
+    }
+    summary {
+        font-size: 1.17em;
+        font-weight: bold;
+        cursor: pointer
+    }
+}
