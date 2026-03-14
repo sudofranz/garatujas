@@ -8,6 +8,13 @@ body{
     summary {
         font-size: 1.17em;
         font-weight: bold;
-        cursor: pointer
+        cursor: pointer;
+        color: #976b86;
+    }
+    details[open] summary {
+        color:#643652;
+    }
+    p {
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
     }
 }
