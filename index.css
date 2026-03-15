@@ -4,7 +4,7 @@ body {
     h2 {
         text-align: center;
         color: #643652;
-    }
+    }    
     summary {
         font-size: 1.17em;
         font-weight: bold;
@@ -16,5 +16,25 @@ body {
     }
     p {
         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    }
+    div {
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    }
+    ul {
+    list-style-type: none
+    }
+    .sem-seta {
+        list-style: none
+    }
+    h3 {
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    }
+     .destaque {
+        color: green;
+        font-weight: bold;
+    }
+    #descricao {
+        color: green;
+        font-style: italic;
     }
 }
